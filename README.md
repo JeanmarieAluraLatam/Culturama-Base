@@ -6,8 +6,8 @@ Culturama es una web de promoción de eventos culturales, creada especialmente p
 
 ## ✔️ Técnicas y tecnologías utilizadas.
 
-- `HTML`: HTML juega un papel fundamental en la creación de las estructuras de las páginas que componen el proyecto Culturama.
-- `CSS`: CSS juega un papel fundamental en la creación de los estilos que dan vida al proyecto y también en la construcción de la organización y disposición de los elementos de la página con **Flexbox** y **Grid**. Algunas propiedades que fueron cubiertas:
+- `HTML`: juega un papel fundamental en la creación de las estructuras de las páginas que componen el proyecto Culturama.
+- `CSS`: juega un papel fundamental en la creación de los estilos que dan vida al proyecto y también en la construcción de la organización y disposición de los elementos de la página con **Flexbox** y **Grid**. Algunas propiedades que fueron cubiertas:
   - `display: flex`;
   - `flex-direction`;
   - `flex-wrap`;
